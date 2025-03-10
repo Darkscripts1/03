@@ -1,1 +1,5 @@
-
+getgenv().AuthKey = "HUGE_3C4qcDEzpSth"
+getgenv().LoadSettings = {
+    Example_Setting = Example_Value
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6a4a1944b1f257b9e52e2fe387345ab2.lua"))()
